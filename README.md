@@ -27,6 +27,7 @@ Docker containers that run on Docker Engine:
 * Secure: Applications are safer in containers and Docker provides the strongest default isolation capabilities in the industry
 
 WSGI - Web Server Gateway Interface
+
 Web Server communicate with Flask Web App using WSGI. 
 
 
